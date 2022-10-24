@@ -23,7 +23,8 @@
           "startCommand": "npm run start",
           "envVariables": {
             "SOMETHING_STATIC": "hello-world"
-          }
+          },
+          "healthCheckPath": "/health"
         }
       ]
     }
