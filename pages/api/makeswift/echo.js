@@ -9,6 +9,7 @@ export default function handler(req, res) {
       ["x-forwarded-proto"]: req.headers["x-forwarded-proto"],
       ["x-forwarded-ssl"]: req.headers["x-forwarded-ssl"],
       ["X-Forwarded-Ssl"]: req.headers["X-Forwarded-Ssl"],
+      asdf: req.path,
     },
   });
 }

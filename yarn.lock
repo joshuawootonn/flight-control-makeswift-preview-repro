@@ -328,10 +328,10 @@
   dependencies:
     next-transpile-modules "^9.0.0"
 
-"@makeswift/runtime@0.0.0-20221024212124":
-  version "0.0.0-20221024212124"
-  resolved "https://registry.yarnpkg.com/@makeswift/runtime/-/runtime-0.0.0-20221024212124.tgz#102de033c2982c0fdac84db6bf12d790f9c5f880"
-  integrity sha512-meypV/Io3cyaueh/eq+67p0mFuZg1jvpX9qAosM+ZB+7HNqU+pNAXnImfk+G7DElEDJvbp9Gtj9sn3+e0rlolw==
+"@makeswift/runtime@0.0.0-20221025145623":
+  version "0.0.0-20221025145623"
+  resolved "https://registry.yarnpkg.com/@makeswift/runtime/-/runtime-0.0.0-20221025145623.tgz#e6edc2bb6ad7a50662e1106b04f12546caee4767"
+  integrity sha512-LwZ1O1t0FA4C1Xj7PZG/66FFskrPzd/ByrqiBpucAda7jL2+iXC8Z4Ka8UGyHQbNEPLpg7obpZtIOEaraJN2UQ==
   dependencies:
     "@apollo/client" "^3.5.10"
     "@convertkit/slate-lists" "^0.2.4"
